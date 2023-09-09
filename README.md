@@ -1,5 +1,5 @@
 # Project Motivation
-This Project was created as part of the Udacity DataScientist Nanodegree. It follows the CRISP-DM Process and should answer 3 specific Questions to Airbnb Open Dataset. For Crisp-DM Process see i.e. [here](https://medium.com/@soulawalid/data-science-crisp-dm-process-for-data-science-b55b1bbfd19a). The three Questions and my BlogPost about this topic see [here]()
+This Project was created as part of the Udacity DataScientist Nanodegree. It follows the CRISP-DM Process and should answer 3 specific Questions to Airbnb Open Dataset. For Crisp-DM Process see i.e. [here](https://medium.com/@soulawalid/data-science-crisp-dm-process-for-data-science-b55b1bbfd19a). The three Questions and my BlogPost about this topic see [here](https://medium.com/p/8428b188d685/edit)
 
 ## Context
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way.
@@ -19,10 +19,15 @@ You need a valid Python distribution. Preferably Python 3.8.0 or higher, as this
     missingno
 
 # File Descriptions
-There are 1 notebook available "Answer 3 Questions on Airbnb Open Dataset.ipynb" to showcase work related to the above questions. Most work you can find is Data Cleaning respectively Data Preparation. The aim is to use linear regression as a model to predict the price of accommodation in Boston. All code is written in Python. Markdown cells were used to assist in walking through the thought process for individual steps.
+There are 1 Jupyter notebook available "Answer_3_Questions_on_Airbnb_Open_Dataset.ipynb" to showcase work related to the above questions. Most work you can find is Data Cleaning respectively Data Preparation. The aim is to use linear regression as a model to predict the price of accommodation in Boston. All code is written in Python. Markdown cells were used to assist in walking through the thought process for individual steps. For Dowloading whole Jupyter Notebook with code there is one more file available. This is the HTML - File of Jupyter Notebook.
+
+# The 3 Questions in Project
+1. What kinds of accommodations have lowest and highest price?
+2. Which data (entities) are best suited to predict the price of accommodation in Boston?
+3. What are the possibilities to achieve a more accurate prediction of prices?
 
 # Results
-For results you can read my BlogPost on [Medium]().
+For results you can read my BlogPost on [Medium](https://medium.com/p/8428b188d685/edit).
  
 # Important links
 - [Download Python](https://www.python.org/downloads/)
