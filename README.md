@@ -1,5 +1,5 @@
 # Project Motivation
-This Project was created as part of the Udacity DataScientist Nanodegree. It follows the CRISP-DM Process and should answer 3 specific Questions to Airbnb Open Dataset. For Crisp-DM Process see i.e. [here](https://medium.com/@soulawalid/data-science-crisp-dm-process-for-data-science-b55b1bbfd19a). The three Questions and my BlogPost about this topic see [here](https://medium.com/p/8428b188d685/edit)
+This Project was created as part of the Udacity DataScientist Nanodegree. It follows the CRISP-DM Process and should answer 3 specific Questions to Airbnb Open Dataset. For Crisp-DM Process see i.e. [here](https://medium.com/@soulawalid/data-science-crisp-dm-process-for-data-science-b55b1bbfd19a). The three Questions and my BlogPost about this topic see [here]([https://medium.com/p/8428b188d685/edit](https://medium.com/@patrick.schubert.1/explore-boston-airbnb-open-data-8428b188d685).
 
 ## Context
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way.
@@ -27,7 +27,7 @@ There are 1 Jupyter notebook available "Answer_3_Questions_on_Airbnb_Open_Datase
 3. What are the possibilities to achieve a more accurate prediction of prices?
 
 # Results
-For results you can read my BlogPost on [Medium](https://medium.com/p/8428b188d685/edit).
+For results you can read my BlogPost on [Medium]([https://medium.com/p/8428b188d685/edit](https://medium.com/@patrick.schubert.1/explore-boston-airbnb-open-data-8428b188d685).
  
 # Important links
 - [Download Python](https://www.python.org/downloads/)
